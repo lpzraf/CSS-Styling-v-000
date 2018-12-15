@@ -1,3 +1,5 @@
 /* Type Selector*/
 
-p {}
+p {
+  font-size: 16px;
+}
